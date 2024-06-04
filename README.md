@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mark
-- 👀 I’m a tech killer(software Engineer/ethical hacker)
-- 🌱 Certified in cyber security, CCNA1 and 2, Fullstack Developer.
+- 👀 Cybersecurity Enthusiast
+- 🌱 I`m a Fullstack Developer learning new languages everyday
 - 📫 How to reach me ... email me at markolendirangu@gmail.com
 
